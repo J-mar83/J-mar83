@@ -33,8 +33,6 @@
 <!--                    ABOUT ME                         -->
 <!-- =================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=713B50&height=65&section=header&text=ABOUT%20ME&fontSize=24&fontColor=FFF1F2&fontAlign=50&fontAlignY=55" width="100%" />
-
 <br/>
 
 Hi! I'm **Jasmin Abdalla** 👋
